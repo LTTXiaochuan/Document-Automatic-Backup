@@ -1,0 +1,1 @@
+g++ main.cpp gui.cpp backup.cpp -municode -mwindows -lcomctl32 -lshlwapi -static -static-libgcc -static-libstdc++ -std=c++17 -o backup.exe 

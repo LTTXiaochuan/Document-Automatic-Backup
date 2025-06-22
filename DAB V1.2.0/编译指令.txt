@@ -1,0 +1,6 @@
+g++ main.cpp gui.cpp backup.cpp icor.res -municode -mwindows -lcomctl32 -lshell32 -lshlwapi -static -static-libgcc -static-libstdc++ -std=c++17 -o backup.exe
+//该指令为联合编译指令，需要在根目录下放置所有需要的文件。
+//静态编译，允许跨计算机使用。
+
+windres icor.rc -O coff -o icor.res
+//编译res，不同环境需要重新编译
