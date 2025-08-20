@@ -1,0 +1,155 @@
+[2025-06-24 13:17:20] [事件] 文件: 天气之子MSC.txt, 动作: 3
+[2025-06-24 13:17:20] [事件] 匹配到目标文件改动，开始备份: 天气之子MSC.txt
+[2025-06-24 13:17:20] [备份成功] 文件 D:\天气之子MSC_20250624_131720.txt
+[2025-06-24 13:17:42] [轮询] 检测到文件变化，开始备份
+[2025-06-24 13:17:42] [备份成功] 文件 D:\天气之子MSC_20250624_131742.txt
+[2025-06-24 13:17:48] [轮询] 检测到文件变化，开始备份
+[2025-06-24 13:17:48] [备份成功] 文件 D:\天气之子MSC_20250624_131748.txt
+[2025-06-24 13:46:50] [轮询] 检测到文件变化，开始备份
+[2025-06-24 13:46:50] [备份成功] 文件 D:\天气之子MSC_20250624_134650.txt
+[2025-07-17 16:57:38] [轮询] 检测到文件变化，开始备份
+[2025-07-17 16:57:38] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165738.txt
+[2025-07-17 16:57:40] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165740.txt
+[2025-07-17 16:57:41] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165741.txt
+[2025-07-17 16:57:41] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165741.txt
+[2025-07-17 16:57:42] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165742.txt
+[2025-07-17 16:57:42] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165742.txt
+[2025-07-17 16:57:42] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165742.txt
+[2025-07-17 16:57:42] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165742.txt
+[2025-07-17 16:57:43] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165743.txt
+[2025-07-17 16:57:43] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165743.txt
+[2025-07-17 16:57:44] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165744.txt
+[2025-07-17 16:57:54] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165754.txt
+[2025-07-17 16:58:20] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165820.txt
+[2025-07-17 16:58:20] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165820.txt
+[2025-07-17 16:58:20] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165820.txt
+[2025-07-17 16:58:25] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165825.txt
+[2025-07-17 16:58:27] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165827.txt
+[2025-07-17 16:58:29] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165829.txt
+[2025-07-17 16:58:29] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165738.txt
+[2025-07-17 16:58:32] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165832.txt
+[2025-07-17 16:58:32] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165740.txt
+[2025-07-17 16:58:38] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165838.txt
+[2025-07-17 16:58:38] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165741.txt
+[2025-07-17 16:58:42] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165842.txt
+[2025-07-17 16:58:42] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165742.txt
+[2025-07-17 16:58:46] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_165846.txt
+[2025-07-17 16:58:46] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165743.txt
+[2025-07-17 17:02:28] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170228.txt
+[2025-07-17 17:02:28] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165744.txt
+[2025-07-17 17:02:33] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170233.txt
+[2025-07-17 17:02:33] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165754.txt
+[2025-07-17 17:02:35] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170235.txt
+[2025-07-17 17:02:35] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165820.txt
+[2025-07-17 17:02:39] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170239.txt
+[2025-07-17 17:02:42] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170242.txt
+[2025-07-17 17:02:45] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170245.txt
+[2025-07-17 17:02:50] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170250.txt
+[2025-07-17 17:02:53] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170253.txt
+[2025-07-17 17:02:55] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170255.txt
+[2025-07-17 17:02:55] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165825.txt
+[2025-07-17 17:03:03] [轮询] 检测到文件变化，开始备份
+[2025-07-17 17:03:03] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170303.txt
+[2025-07-17 17:03:03] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165827.txt
+[2025-07-17 17:03:03] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165829.txt
+[2025-07-17 17:03:03] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165832.txt
+[2025-07-17 17:03:03] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165838.txt
+[2025-07-17 17:03:03] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165842.txt
+[2025-07-17 17:03:03] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_165846.txt
+[2025-07-17 17:03:04] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_170304.txt
+[2025-07-17 17:03:04] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170228.txt
+[2025-07-17 19:11:10] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:11:10] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191110.txt
+[2025-07-17 19:11:10] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170233.txt
+[2025-07-17 19:11:32] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:11:32] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191132.txt
+[2025-07-17 19:11:32] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170235.txt
+[2025-07-17 19:11:37] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:11:37] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191137.txt
+[2025-07-17 19:11:37] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170239.txt
+[2025-07-17 19:12:44] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:12:44] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191244.txt
+[2025-07-17 19:12:44] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170242.txt
+[2025-07-17 19:12:45] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:12:45] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191245.txt
+[2025-07-17 19:12:46] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170245.txt
+[2025-07-17 19:12:51] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:12:51] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191251.txt
+[2025-07-17 19:12:59] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:12:59] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191259.txt
+[2025-07-17 19:13:33] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:13:33] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191333.txt
+[2025-07-17 19:15:35] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:15:35] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191535.txt
+[2025-07-17 19:15:35] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170250.txt
+[2025-07-17 19:15:35] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170253.txt
+[2025-07-17 19:15:35] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170255.txt
+[2025-07-17 19:15:35] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170303.txt
+[2025-07-17 19:18:21] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:18:21] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191821.txt
+[2025-07-17 19:18:21] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_170304.txt
+[2025-07-17 19:18:30] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:18:30] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191830.txt
+[2025-07-17 19:18:47] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:18:47] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_191847.txt
+[2025-07-17 19:20:02] [轮询] 检测到文件变化，开始备份
+[2025-07-17 19:20:02] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250717_192002.txt
+[2025-08-12 09:07:58] [轮询] 检测到文件变化，开始备份
+[2025-08-12 09:07:58] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250812_090758.txt
+[2025-08-12 09:07:58] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191110.txt
+[2025-08-12 09:07:58] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191132.txt
+[2025-08-12 09:07:58] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191137.txt
+[2025-08-12 09:07:58] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191244.txt
+[2025-08-12 09:08:13] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250812_090813.txt
+[2025-08-12 09:08:13] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191245.txt
+[2025-08-12 09:08:56] [轮询] 检测到文件变化，开始备份
+[2025-08-12 09:08:56] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250812_090856.txt
+[2025-08-12 09:08:56] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191251.txt
+[2025-08-20 17:15:35] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250820_171535.txt
+[2025-08-20 17:15:35] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191259.txt
+[2025-08-20 17:16:05] [轮询] 检测到文件变化，开始备份
+[2025-08-20 17:16:05] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250820_171605.txt
+[2025-08-20 17:16:05] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191333.txt
+[2025-08-20 17:20:35] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250820_172035.txt
+[2025-08-20 17:20:35] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191535.txt
+[2025-08-20 17:22:02] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250820_172202.txt
+[2025-08-20 17:22:02] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191821.txt
+[2025-08-20 17:22:09] [轮询] 检测到文件变化，开始备份
+[2025-08-20 17:22:09] [增量备份] 更新文件: D:\DeepSeek.txt Backup\DeepSeek.txt
+[2025-08-20 17:22:33] [增量备份] 更新文件: D:\DeepSeek.txt Backup\DeepSeek.txt
+[2025-08-20 17:22:33] [增量备份] 更新文件: D:\DeepSeek.txt Backup\DeepSeek.txt
+[2025-08-20 17:23:13] [备份成功] 文件 D:\DeepSeek.txt Backup\DeepSeek_20250820_172313.txt
+[2025-08-20 17:23:13] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191830.txt
+[2025-08-20 17:23:13] [清理] 删除旧备份: D:\DeepSeek.txt Backup\DeepSeek_20250717_191847.txt
+[2025-08-20 17:25:26] [事件] 文件: tetete, 动作: 3
+[2025-08-20 17:25:26] [事件] 匹配到目标文件改动，开始备份: tetete
+[2025-08-20 17:25:26] [增量备份] 更新文件: D:\tetete Backup\新建 文本文档.txt
+[2025-08-20 17:25:46] [事件] 文件: tetete, 动作: 3
+[2025-08-20 17:25:46] [事件] 匹配到目标文件改动，开始备份: tetete
+[2025-08-20 17:25:46] [增量备份] 更新文件: D:\tetete Backup\新建 文本文档 (2).txt
+[2025-08-20 17:25:46] [增量备份] 跳过未修改文件: D:\tetete Backup\新建 文本文档.txt
+[2025-08-20 17:25:53] [事件] 文件: tetete, 动作: 3
+[2025-08-20 17:25:53] [事件] 匹配到目标文件改动，开始备份: tetete
+[2025-08-20 17:25:53] [增量备份] 跳过未修改文件: D:\tetete Backup\新建 文本文档 (2).txt
+[2025-08-20 17:26:02] [事件] 文件: tetete, 动作: 3
+[2025-08-20 17:26:02] [事件] 匹配到目标文件改动，开始备份: tetete
+[2025-08-20 17:26:02] [增量备份] 跳过未修改文件: D:\tetete Backup\新建 文本文档 (2).txt
+[2025-08-20 17:26:02] [增量备份] 更新文件: D:\tetete Backup\新建 文本文档.txt
+[2025-08-20 17:26:11] [事件] 文件: tetete, 动作: 3
+[2025-08-20 17:26:11] [事件] 匹配到目标文件改动，开始备份: tetete
+[2025-08-20 17:26:11] [增量备份] 跳过未修改文件: D:\tetete Backup\新建 文本文档 (2).txt
+[2025-08-20 17:26:14] [事件] 文件: tetete, 动作: 3
+[2025-08-20 17:26:14] [事件] 匹配到目标文件改动，开始备份: tetete
+[2025-08-20 17:26:14] [增量备份] 跳过未修改文件: D:\tetete Backup\新建 文本文档 (2).txt
+[2025-08-20 17:26:14] [增量备份] 更新文件: D:\tetete Backup\新建 文本文档.txt
+[2025-08-20 17:26:16] [事件] 文件: tetete, 动作: 3
+[2025-08-20 17:26:16] [事件] 匹配到目标文件改动，开始备份: tetete
+[2025-08-20 17:26:16] [增量备份] 更新文件: D:\tetete Backup\pp.txt
+[2025-08-20 17:26:16] [增量备份] 跳过未修改文件: D:\tetete Backup\新建 文本文档 (2).txt
+[2025-08-20 17:26:33] [轮询] 检测到文件夹中文件变更，开始备份
+[2025-08-20 17:26:33] [增量备份] 更新文件: D:\tetete Backup\pp.txt
+[2025-08-20 17:26:33] [增量备份] 跳过未修改文件: D:\tetete Backup\新建 文本文档 (2).txt
+[2025-08-20 17:26:53] [轮询] 检测到文件夹中文件变更，开始备份
+[2025-08-20 17:26:53] [增量备份] 更新文件: D:\tetete Backup\pp.txt
+[2025-08-20 17:26:53] [增量备份] 更新文件: D:\tetete Backup\新建 DOC 文档.doc
+[2025-08-20 17:26:53] [增量备份] 跳过未修改文件: D:\tetete Backup\新建 文本文档 (2).txt
